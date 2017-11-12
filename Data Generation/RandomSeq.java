@@ -1,6 +1,6 @@
 package peptideGeneration;
 
-//NAME              	Isabel Holtan
+//NAME              	Isabel 
 //LAST MODIFIED     	10 November 2017
 //Class			Peptide Generation
 //DESCRIPTION       	Generates a random sequence of proteins and
