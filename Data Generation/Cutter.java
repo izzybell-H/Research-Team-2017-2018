@@ -5,7 +5,7 @@
 		PrintWriter out = new PrintWriter(file);
 		Random rand = new Random();
 		boolean uniqueCut = false, isExcess=true;
-		int last = 0, next = 0, excess=0, take=0, add=0, shiftSpace=0, shiftAmount=0, excessTemp=0, length=0, k=0; 
+		int last = 0, next = 0, excess=0, take=0, add=0, shiftSpace=0, shiftAmount=0, excessTemp=0, length=0, k=1; 
 		int cutLocation[] = new int [numPep-1];
 		String peptides[] = new String [numPep];
 		
